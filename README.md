@@ -17,21 +17,21 @@ In the current scenario when the world is fighting against COVID19 pandemic, I t
 
 ### Datasets Used :
 
-1. [COVID19 Confirmed Dataset](Dataset/covid19_Confirmed_dataset.csv) 
+1. [COVID19 Confirmed Dataset](/Dataset/covid19_Confirmed_dataset.csv) 
 
-2. [World Happiness Dataset](Dataset/worldwide_happiness_report.csv) 
+2. [World Happiness Dataset](/Dataset/worldwide_happiness_report.csv) 
 
    
 
 ### Results
 
-![GDP](D:\COURSE Modules\My Courses\My Projects\COVID19 Data Analysis\Images\GDP.png)
+![GDP](/Images/GDP.png)
 
-![Social Support](D:\COURSE Modules\My Courses\My Projects\COVID19 Data Analysis\Images\Social Support.png)
+![Social Support](/Images/Social Support.png)
 
-![Healthy Life](D:\COURSE Modules\My Courses\My Projects\COVID19 Data Analysis\Images\Healthy Life.png)
+![Healthy Life](/Images/Healthy Life.png)
 
-![Freedom](D:\COURSE Modules\My Courses\My Projects\COVID19 Data Analysis\Images\Freedom.png)
+![Freedom](/Images/Freedom.png)
 
 ### Helpful Links
 
