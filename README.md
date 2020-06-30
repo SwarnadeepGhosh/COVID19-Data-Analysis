@@ -27,9 +27,9 @@ In the current scenario when the world is fighting against COVID19 pandemic, I t
 
 ![GDP](/Images/GDP.png)
 
-![Social Support](/Images/Social Support.png)
+![Social Support](/Images/SocialSupport.png)
 
-![Healthy Life](/Images/Healthy Life.png)
+![Healthy Life](/Images/HealthyLife.png)
 
 ![Freedom](/Images/Freedom.png)
 
