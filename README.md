@@ -17,9 +17,9 @@ In the current scenario when the world is fighting against COVID19 pandemic, I t
 
 ### Datasets Used :
 
-1. [COVID19 Confirmed Dataset](/Dataset/covid19_Confirmed_dataset.csv) 
+1. [COVID19 Confirmed Dataset](/Datasets/covid19_Confirmed_dataset.csv) 
 
-2. [World Happiness Dataset](/Dataset/worldwide_happiness_report.csv) 
+2. [World Happiness Dataset](/Datasets/worldwide_happiness_report.csv) 
 
    
 
