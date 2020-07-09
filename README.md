@@ -32,7 +32,7 @@ In the current scenario when the world is fighting against COVID19 pandemic, I t
 ![Healthy Life](/Images/HealthyLife.png)
 
 ![Freedom](/Images/Freedom.png)
-
+    
 ### Helpful Links
 
 - [Coronavirus - John Hopkins University](https://coronavirus.jhu.edu/)
