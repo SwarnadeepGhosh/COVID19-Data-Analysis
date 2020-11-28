@@ -1,6 +1,6 @@
 # <span style = 'color : blue'>Covid19 Data Analysis</span>
 
-### Motivation for this Project
+### Motivation for this Project 
 
 In the current scenario when the world is fighting against the COVID19 pandemic, I tried to analyze the **COVID19 Confirmed Dataset** of **John Hopkins University** and **World Happiness Data** and tried to connect some bridges between them. I plotted *Maximum Infection Rates* with *GDP*, *Social Support*, *Healthy Life Expectancy*, and *Freedom to make Life Choices*.
 
